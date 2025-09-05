@@ -5,7 +5,7 @@ This project is part of my AI/ML internship (Week 2). It builds a Convolutional 
 ### ⚡ How to Run
 ```bash
 pip install tensorflow matplotlib scikit-learn numpy
-python plant_classifier.py     # trains and saves model
+python plant_disease_classifire.py     # trains and saves model
 python predict_image.py        # test with images from test/ folder
 ```
 ### 📊 Example Usage
