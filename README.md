@@ -31,5 +31,3 @@ Works with any number of classes automatically (detected from train/ folders)
 📜 Open-source for educational purposes.
 
 ---
-
-👉 Do you also want me to add a **placeholder image section** (like "Confusion Matrix" or "Accuracy Graph") so you can later insert your training plot in the README?
